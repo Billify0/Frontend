@@ -54,7 +54,7 @@ function BillCard({
               <Typography variant='h6' className='text-gray-600 font-medium' textGradient>{new Date(date).toISOString().split('T')[0]}</Typography>
             </div>
             <div className='flex items-center gap-4'>
-              <Typography variant='h6' className='text-black font-bold uppercase' textGradient>Date :</Typography>
+              <Typography variant='h6' className='text-black font-bold uppercase' textGradient>Time :</Typography>
               <Typography variant='h6' className='text-gray-600 font-medium' textGradient>{new Date(date).toLocaleTimeString('en-US', { hour12: true, hour: '2-digit', minute: '2-digit', second: '2-digit' })}</Typography>
             </div>
           </div>
