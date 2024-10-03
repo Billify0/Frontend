@@ -13,8 +13,6 @@
 - **QR Code Billing**: Generate QR codes for each bill, allowing customers to download their bills digitally.
 - **Bill History**: View previous bills stored in Google Drive for quick access.
 - **File Upload**: Store bills securely in Google Drive for future reference.
-- **Customizable Profiles**: Restaurant owners can set up and manage their profiles.
-
 ---
 
 ## Tech Stack
